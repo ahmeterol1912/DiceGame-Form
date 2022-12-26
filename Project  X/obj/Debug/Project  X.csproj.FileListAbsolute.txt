@@ -1,0 +1,112 @@
+C:\Users\CETIN\source\repos\Project  X\Project  X\bin\Debug\Project  X.exe.config
+C:\Users\CETIN\source\repos\Project  X\Project  X\bin\Debug\Project  X.exe
+C:\Users\CETIN\source\repos\Project  X\Project  X\bin\Debug\Project  X.pdb
+C:\Users\CETIN\source\repos\Project  X\Project  X\obj\Debug\Project  X.csproj.AssemblyReference.cache
+C:\Users\CETIN\source\repos\Project  X\Project  X\obj\Debug\Project__X.Form1.resources
+C:\Users\CETIN\source\repos\Project  X\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+C:\Users\CETIN\source\repos\Project  X\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+C:\Users\CETIN\source\repos\Project  X\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+C:\Users\CETIN\source\repos\Project  X\Project  X\obj\Debug\Project  X.exe
+C:\Users\CETIN\source\repos\Project  X\Project  X\obj\Debug\Project  X.pdb
+C:\Users\CETIN\source\repos\Project  X\Project  X\obj\Debug\Project__X.Form2.resources
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\bin\Debug\Project  X.exe.config
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\bin\Debug\Project  X.exe
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\bin\Debug\Project  X.pdb
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\obj\Debug\Project  X.csproj.AssemblyReference.cache
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\obj\Debug\Project__X.Form1.resources
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\obj\Debug\Project__X.Form2.resources
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\obj\Debug\Project  X.exe
+C:\Users\CETIN\Desktop\Project X\Project  X\Project  X\obj\Debug\Project  X.pdb
+C:\Users\48572\Desktop\Project  X\Project  X\bin\Debug\Project  X.exe.config
+C:\Users\48572\Desktop\Project  X\Project  X\bin\Debug\Project  X.exe
+C:\Users\48572\Desktop\Project  X\Project  X\bin\Debug\Project  X.pdb
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project__X.Form1.resources
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project__X.Form2.resources
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project  X.exe
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project  X.pdb
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project  X.csprojAssemblyReference.cache
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project__X.Form3.resources
+C:\Users\CETIN\Desktop\Project  X\Project  X\bin\Debug\Project  X.exe.config
+C:\Users\CETIN\Desktop\Project  X\Project  X\bin\Debug\Project  X.exe
+C:\Users\CETIN\Desktop\Project  X\Project  X\bin\Debug\Project  X.pdb
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project  X.csproj.AssemblyReference.cache
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project__X.Form1.resources
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project__X.Form2.resources
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project__X.Form3.resources
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project  X.exe
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project  X.pdb
+C:\Users\48572\Downloads\Project  X\Project  X\bin\Debug\Project  X.exe.config
+C:\Users\48572\Downloads\Project  X\Project  X\bin\Debug\Project  X.exe
+C:\Users\48572\Downloads\Project  X\Project  X\bin\Debug\Project  X.pdb
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project  X.csprojAssemblyReference.cache
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project__X.Form1.resources
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project__X.Form2.resources
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project__X.Form3.resources
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project  X.exe
+C:\Users\48572\Downloads\Project  X\Project  X\obj\Debug\Project  X.pdb
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\bin\Debug\Project  X.exe.config
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\bin\Debug\Project  X.exe
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\bin\Debug\Project  X.pdb
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project  X.csprojAssemblyReference.cache
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project__X.Form1.resources
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project__X.Form2.resources
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project__X.Form3.resources
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project  X.exe
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project  X.pdb
+C:\Users\48572\Desktop\Yeni klasör\Project  X\Project  X\obj\Debug\Project__X.Form4.resources
+C:\Users\CETIN\Desktop\Project  X\Project  X\obj\Debug\Project__X.Form4.resources
+C:\Users\48572\Desktop\Project  X\Project  X\obj\Debug\Project__X.Form4.resources
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\bin\Debug\Project  X.exe.config
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\bin\Debug\Project  X.exe
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\bin\Debug\Project  X.pdb
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project  X.csproj.AssemblyReference.cache
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project__X.Form1.resources
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project__X.Form2.resources
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project__X.Form3.resources
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project__X.Form4.resources
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project  X.exe
+C:\Users\CETIN\Desktop\New folder\Project  X\Project  X\obj\Debug\Project  X.pdb
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\bin\Debug\Project  X.exe.config
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\bin\Debug\Project  X.exe
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\bin\Debug\Project  X.pdb
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project  X.csprojAssemblyReference.cache
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project__X.Form1.resources
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project__X.Form2.resources
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project__X.Form3.resources
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project__X.Form4.resources
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project  X.exe
+E:\Vistula\dersqq2\OOP\Project  X\Project  X\obj\Debug\Project  X.pdb
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\bin\Debug\Project  X.exe.config
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\bin\Debug\Project  X.exe
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\bin\Debug\Project  X.pdb
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project  X.csproj.AssemblyReference.cache
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project__X.Form1.resources
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project__X.Form2.resources
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project__X.Form3.resources
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project__X.Form4.resources
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project__X.Properties.Resources.resources
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project  X.csproj.GenerateResource.cache
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project  X.csproj.CoreCompileInputs.cache
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project  X.exe
+C:\Users\aerol\Desktop\Dice-game-master\Project  X\obj\Debug\Project  X.pdb
